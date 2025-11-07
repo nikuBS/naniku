@@ -1,0 +1,9 @@
+{
+  "name": "naniku-react-gallery",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "python3 -m http.server --directory public",
+    "dev": "python3 -m http.server --directory public"
+  }
+}
